@@ -4,10 +4,10 @@ This is a code for a functional Merkle Tree.
 
 In this project we:
 
-1) Create a Merkle Tree.
-2) Generate a Proof Of Inclusion to a given node in the tree.
-3) Check the Validation of a given node, root and Proof Of Inclusion.
-4) Use "Brute Force" to find a valid hashed expression for a given difficult level.
+1) Created a Merkle Tree.
+2) Generated a Proof Of Inclusion to a given node in the tree.
+3) Checked the Validation of a given node, root and Proof Of Inclusion.
+4) Used "Brute Force" to find a valid hashed expression for a given difficult level.
 
 ## Details
 There are 4 different commands in this code, 1-4 as explained above.
