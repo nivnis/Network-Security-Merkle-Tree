@@ -6,7 +6,7 @@ In this project we:
 
 1) Created a Merkle Tree.
 2) Generated a Proof Of Inclusion to a given node in the tree.
-3) Checked the Validation of a given node, root and Proof Of Inclusion.
+3) Checked the validation of a given node, root, and Proof Of Inclusion.
 4) Used "Brute Force" to find a valid hashed expression for a given difficult level.
 
 ## Details
